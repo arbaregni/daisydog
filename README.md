@@ -1,3 +1,3 @@
 # daisydog
 
-Go to daisysours.dog !
+Go to http://daisysours.dog !
